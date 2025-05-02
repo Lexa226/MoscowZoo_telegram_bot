@@ -1,0 +1,20 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+.venv/
+env/
+
+# Python-кеш
+__pycache__/
+*.pyc
+
+# Данные пользователей
+data/user_data.json
+
+# Логи (если используете)
+*.log
+
+# Системные
+.DS_Store
+Thumbs.db
